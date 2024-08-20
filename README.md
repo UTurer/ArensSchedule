@@ -28,10 +28,10 @@ Reminders to Self:
    d) I created an Author Certificate. Wrote my name, password. Selected "use the same password for distributor certificate".<br/>
    e) It opened a webpage and asked me to login to my Samsung account. I logged in. It created the Author Certificate.<br/>
    f) Then it continued with the Distributor Certificate. Somewhere it asked for a DUID. Since the watch was already connected to Tizen Studio, it automatically selected the required DUID, I just clicked Next.<br/>
-
-TO-DO LIST
-[ ] App currently has a timer with 10 sec interval checking for changes. It may be better if the app, while active, would listen for clock changes and if minute or hour is changed, update the schedule progress. However you have to find an event that fires every minute. If it fires every second or milisecond, it will probably be more cpu intensive?
-[ ] Currently when schedule is being updated, all labels and progressbars are being deleted and then readded. Instead, there could be a smart mechanism which checks for which labels and progressbars to update, and only update those.
-[ ] Schedule items can be made collapsible. Currently too much info is shown on the screen and you have to scroll a lot. Maybe you can collapse the individual items and see only the progress bars. And when you click on a progress bar, more text info appears.
-[ ] You can add another window which can be reached with a swipe to the left or right. It can be the options screen where you define colors, text size etc.
-[ ] You can add another window which can ve reached with a swipte to the left or right. It can be for entering a schedule. Currently the schedule is coded as a struct inside the code and it has to be changed inside the code and re-compiled. If this app is going to be published, it has to be done inside the app.
+<br/>
+TO-DO LIST<br/>
+[ ] App currently has a timer with 10 sec interval checking for changes. It may be better if the app, while active, would listen for clock changes and if minute or hour is changed, update the schedule progress. However you have to find an event that fires every minute. If it fires every second or milisecond, it will probably be more cpu intensive?<br/>
+[ ] Currently when schedule is being updated, all labels and progressbars are being deleted and then readded. Instead, there could be a smart mechanism which checks for which labels and progressbars to update, and only update those.<br/>
+[ ] Schedule items can be made collapsible. Currently too much info is shown on the screen and you have to scroll a lot. Maybe you can collapse the individual items and see only the progress bars. And when you click on a progress bar, more text info appears.<br/>
+[ ] You can add another window which can be reached with a swipe to the left or right. It can be the options screen where you define colors, text size etc.<br/>
+[ ] You can add another window which can ve reached with a swipte to the left or right. It can be for entering a schedule. Currently the schedule is coded as a struct inside the code and it has to be changed inside the code and re-compiled. If this app is going to be published, it has to be done inside the app.<br/>
