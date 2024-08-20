@@ -1,4 +1,6 @@
-This is a one week project I did. The idea came from the schedule for my 7th grade kid being too complex to track. He had to cross-reference 4 different tables to see where he had to be at that hour. Furthermore, he likes tracking how many minutes are left to the end of the course. So the idea that we can utilize the Samsung Galaxy Watch 3 sitting in a drawer in our house for this task. I had to learn Tizen Studio and Native API throughout this one week, but I managed to code a working app.
+This is a one week project I did. The idea came from the schedule for my 7th grade kid being too complex to track. He had to cross-reference 4 different tables to see where he had to be at that hour. Furthermore, he likes tracking how many minutes are left to the end of the course. So the idea that we can utilize the Samsung Galaxy Watch 3 sitting in a drawer in our house for this task came to me. I had to learn Tizen Studio and Native API throughout this one week, but I managed to code a working app.
+
+The app basically has a schedule for weekdays and weekends. When you open the app, it shows the schedule for that day, then according to the current time, it fills progressbars accordingly, marks active course with a yellow color and marks completed courses with dark gray etc.
 
 Reminders to Self:
 1) In order to connect and run the app on the actual watch hardware (not the emulator that comes with Tizen Studio) you have to do as follows:<br/>
