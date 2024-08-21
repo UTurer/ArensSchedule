@@ -1,4 +1,4 @@
-![alt text](screenshot.jpg?raw=true)
+![alt text](screenshot.png?raw=true)
 
 This is a one week project I did. The idea came from the schedule for my 7th grade kid being too complex to track. He had to cross-reference 4 different tables to see where he had to be at that hour. Furthermore, he likes tracking how many minutes are left to the end of the course. So the idea that we can utilize the Samsung Galaxy Watch 3 sitting in a drawer in our house for this task came to me. I had to learn Tizen Studio and Native API throughout this one week, but I managed to code a working app.
 
