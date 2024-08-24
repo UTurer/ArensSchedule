@@ -26,6 +26,7 @@ Reminders to Self:
 2) In order to build a package, I had to create a certificate and sign the app. This is how I did it:<br/>
    a) The following link is a great start<br/>
        - https://developer.samsung.com/tizen/certificate-signing/creating-certificate.html<br/>
+       - https://developer.tizen.org/dev-guide/training/native-app/en/wearable/lesson_5/index.html<br/>
    b) I followed the steps in the link. I opened Tizen Studio Package Manager and downloaded Samsung Certificate Extension.<br/>
    c) Then inside Tizen Studio I opened Certificate Manager. It showed me two options Tizen or Samsung. I selected Samsung because it was a wearable device app.<br/>
    d) I created an Author Certificate. Wrote my name, password. Selected "use the same password for distributor certificate".<br/>
