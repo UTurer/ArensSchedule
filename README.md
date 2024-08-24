@@ -5,6 +5,7 @@ This is a one week project I did. The idea came from the schedule for my 7th gra
 The app basically has a schedule for weekdays and weekends. When you open the app, it shows the schedule for that day, then according to the current time, it fills progressbars accordingly, marks active course with a yellow color and marks completed courses with dark gray etc.
 
 Reminders to Self:
+0) This is a good start: https://developer.tizen.org/dev-guide/training/native-app/en/wearable/lesson_1/index.html<br/>
 1) In order to connect and run the app on the actual watch hardware (not the emulator that comes with Tizen Studio) you have to do as follows:<br/>
    a) The following two links are a great start:<br/>
        - https://developer.samsung.com/galaxy-watch-tizen/creating-your-first-app/native.html<br/>
