@@ -9,6 +9,7 @@ Reminders to Self:
    a) The following two links are a great start:<br/>
        - https://developer.samsung.com/galaxy-watch-tizen/creating-your-first-app/native.html<br/>
        - https://developer.samsung.com/sdp/blog/en/2021/04/12/remote-device-manager-an-easy-way-to-launch-your-application-with-tizen-studio<br/>
+       - https://developer.tizen.org/dev-guide/training/native-app/en/wearable/lesson_4/index.html<br/>
    b) On the watch, Set WiFi to "Always On" instead of "Auto".<br/>
    c) On the watch, turn Bluetooth off. In my first try I didn't have to turn it off to connect, but after I synced the watch to another phone, I had to turn off Bluetooth to connect so if the watch does not connect to Tizen Studio, it may be because of bluetooth being turned on.<br/>
    c) On the watch, activate developer mode. Search internet for the steps but here is a reminder which I hope I remember correctly:<br/>
