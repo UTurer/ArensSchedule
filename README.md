@@ -20,7 +20,8 @@ Reminders to Self:
    c) The watch connects to 2.4GHz WiFi. My laptop connects to 5GHz on the same router. I had to connect the laptop to 2.4GHz WiFi also.<br/>
    d) Connect to the watch using Tizen Studio Device Manager<br/>
        - Open Tizen Studio and launch Device Manager (Alt+Shift+V or go to Tools->Device Manager).<br/>
-       - Click "Scan" button. The watch will hopefully be found. You can check the IP address from the WiFi menu of the watch.<br/>
+       - Click "Remote Device Manager" button. It has an icon of a "phone and a computer screen".
+       - Click "Scan Devices" button. The watch will hopefully be found. You can check the IP address from the WiFi menu of the watch.<br/>
        - Slide Connection from OFF to ON. A notification appears on the watch screen. If the watch is on standby, you have to wake it up to see the notification. The notification is about "Debugging RSA Key Fingerprint ... etc.". Click OK and close the notification.<br/>
        - Hopefuly after this step the watch will connect to Tizen Studio.<br/>
    e) Now you can choose the watch as the target hardware while running the code.<br/>
